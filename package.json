@@ -1,0 +1,27 @@
+{
+  "name": "gitworkshop",
+  "version": "1.0.0",
+  "description": "to Test Auto-ChangeLog from Standard-Version",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "release": "standard-version"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeroHo/GitWorkShop.git"
+  },
+  "keywords": [
+    "test",
+    "sandbox"
+  ],
+  "author": "Hieu Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeroHo/GitWorkShop/issues"
+  },
+  "homepage": "https://github.com/KeroHo/GitWorkShop#readme",
+  "devDependencies": {
+    "standard-version": "^9.3.2"
+  }
+}
