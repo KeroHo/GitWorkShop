@@ -1,6 +1,6 @@
 {
   "name": "gitworkshop",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "to Test Auto-ChangeLog from Standard-Version",
   "main": "index.js",
   "scripts": {
